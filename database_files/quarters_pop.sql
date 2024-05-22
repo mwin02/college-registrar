@@ -1,0 +1,33 @@
+DROP TABLE QUARTER_CONVERSION;
+
+create table QUARTER_CONVERSION(
+  QUARTER VARCHAR(50) NOT NULL,
+  NUM INT
+);
+
+
+insert into QUARTER_CONVERSION values('SPRING 2017', 0);
+insert into QUARTER_CONVERSION values('FALL 2017', 1);
+insert into QUARTER_CONVERSION values('WINTER 2017', 2);
+insert into QUARTER_CONVERSION values('SPRING 2018', 3);
+insert into QUARTER_CONVERSION values('FALL 2018', 4);
+insert into QUARTER_CONVERSION values('WINTER 2018', 5);
+insert into QUARTER_CONVERSION values('SPRING 2019', 6);
+insert into QUARTER_CONVERSION values('FALL 2019', 7);
+insert into QUARTER_CONVERSION values('WINTER 2019', 8);
+insert into QUARTER_CONVERSION values('SPRING 2020', 9);
+insert into QUARTER_CONVERSION values('FALL 2020', 10);
+insert into QUARTER_CONVERSION values('WINTER 2020', 11);
+insert into QUARTER_CONVERSION values('SPRING 2021', 12);
+insert into QUARTER_CONVERSION values('FALL 2021', 13);
+insert into QUARTER_CONVERSION values('WINTER 2021', 14);
+insert into QUARTER_CONVERSION values('SPRING 2022', 15);
+insert into QUARTER_CONVERSION values('FALL 2022', 16);
+insert into QUARTER_CONVERSION values('WINTER 2022', 17);
+insert into QUARTER_CONVERSION values('SPRING 2023', 18);
+insert into QUARTER_CONVERSION values('FALL 2023', 19);
+insert into QUARTER_CONVERSION values('WINTER 2023', 20);
+insert into QUARTER_CONVERSION values('SPRING 2024', 21);
+insert into QUARTER_CONVERSION values('FALL 2024', 22);
+insert into QUARTER_CONVERSION values('WINTER 2024', 23);
+insert into QUARTER_CONVERSION values('SPRING 2025', 24);

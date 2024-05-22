@@ -1,0 +1,77 @@
+TeachingSchedule;
+entry form for teaching schedule (schedule.jsp)
+
+ObtainedDegrees;
+TODO: add to student entry form (student.jsp)
+
+ReviewSessions;
+review session entry form (review.jsp)
+
+Attendence;
+(attendence.jsp) linked from student entry form (students.jsp)
+
+Meeting;
+(meeting.jsp) linked from class entry form (class.jsp)
+
+Prerequisites;
+part of course entry form (course.jsp)
+
+StudentAccount;
+StudentAccount entry form (accounts.jsp)
+
+StudentAccountPayers;
+part of StudentAccount entry form (accounts.jsp)
+
+AccountTransactions;
+(transactions.jsp) linked from StudentAccount entry form (account.jsp)
+
+DegreeCategoryReq;
+part of degree entry form (degree.jsp)
+
+DegreeConcentrationReq;
+part of degree entry form (degree.jsp)
+
+UndergraduateStudent; GraduateStudent; MasterStudent; PHDStudent; PreCandidancyStudent; PHDCandidateStudent;
+students entry form (student.js)
+
+Category;
+category entry form (categories.jsp)
+
+CategoryCourses;
+part of category entry form (categories.jsp)
+
+Concentration;
+Concentration entry form (concentrations.js)
+
+ConcentrationCourses;
+part of concentration entry form (concentrations.js)
+
+Degree;
+degree entry form (degree.jsp)
+
+ThesisCommittee;
+thesis committee entry form (thesis.jsp)
+
+ThesisCommitteeMembers;
+part of thesis committee entry form (thesis.jsp)
+
+Course;
+course entry form (course.jsp)
+
+Faculty;
+faculty entry form (faculty.jsp)
+
+Department;
+department entry form (department.jsp)
+
+Class;
+class entry form (class.jsp)
+
+Probation;
+probation entry form (probation.jsp)
+
+Enrollment;
+course enrollment entry form (enrollment.jsp)
+
+Student;
+student entry form (students.jsp)
